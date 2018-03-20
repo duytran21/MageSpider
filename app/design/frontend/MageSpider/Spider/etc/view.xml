@@ -64,6 +64,10 @@
                 <width>78</width>
                 <height>78</height>
             </image>
+            <image id="new_products_images_names_only_widget" type="small_image">
+                <width>262</width>
+                <height>262</height>
+            </image>
             <image id="product_base_image" type="image">
                 <width>265</width>
                 <height>265</height>
